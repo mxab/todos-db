@@ -1,0 +1,24 @@
+{
+    "todos": [{
+            "id": 1,
+            "userId": 1,
+            "title": "Buy Milk",
+            "completed": true
+        },
+        {
+            "id": 2,
+            "userId": 1,
+            "title": "Bake Cake",
+            "completed": false
+        }
+    ],
+    "users": [{
+            "id": 1,
+            "name": "Max"
+        },
+        {
+            "id": 2,
+            "name": "Alice"
+        }
+    ]
+}
